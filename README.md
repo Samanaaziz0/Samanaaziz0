@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=Hi,%20I'm%20Saman%20Aziz&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=BSCS%20Student%20@%20KICSIT,%20IST%20|%20Semester%205&descAlignY=55&descSize=16" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Saman+Aziz;BS+Computer+Science+Student+%40+IST;Passionate+about+AI%2C+DSA+%26+Full+Stack;Building+projects+that+make+an+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=950&height=65&lines=Hi+%F0%9F%91%8B%2C+I'm+Saman+Aziz;BS+Computer+Science+Student+%40+IST;Passionate+about+AI%2C+DSA+%26+Full+Stack;Building+projects+that+make+an+impact" alt="Typing SVG" />
 </a>
 
 <br>
