@@ -122,7 +122,7 @@ into working products that make an impact.
 
 | Project | Description | Tech |
 |---|---|---|
-| **[CropGuard AI](https://github.com/Samanaaziz0/cropguard-ai)** | Satellite crop-health monitoring with automatic drought damage detection, Urdu SMS alerts, and instant relief disbursement for Pakistan's farmers | React, Node.js, MongoDB, Leaflet, Express |
+| **[CropGuard AI](https://github.com/Samanaaziz0/cropguard-ai)** | Satellite crop-health monitoring with automatic drought damage detection, Urdu SMS alerts, and instant relief disbursement for Pakistan's farmers · [**Live Demo**](https://cropguard-ai-murex.vercel.app) | React, Node.js, MongoDB, Leaflet, Express |
 | **[Cozy Bites](https://github.com/Samanaaziz0/cozy-bites)** | Western Bistro restaurant app — menu browsing, reservations, dine-in & online orders, loyalty points rewards, contact form, and a role-based admin panel with stats & activity feed · [**Live Demo**](https://cozy-bites-deploy.vercel.app) | Flask, MongoDB, HTML, CSS, JavaScript |
 | *More projects coming soon...* | | |
 
